@@ -1,5 +1,10 @@
 ---
-title: "Articles"
-date: 2017-03-02T12:00:00-05:00
+title: "Ananke: a Hugo Theme"
+
+description: "The last theme you'll ever need. Maybe."
+# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
+theme_version: '2.8.2'
+cascade:
+  featured_image: '/images/pinewood-derby-2022.jpg'
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
